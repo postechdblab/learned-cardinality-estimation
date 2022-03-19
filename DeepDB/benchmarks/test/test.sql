@@ -1,0 +1,10 @@
+SELECT count(*) FROM title AS t WHERE t.season_nr IS NULL ;
+SELECT count(*) FROM title AS t WHERE t.season_nr IS NOT NULL ;
+SELECT count(*) FROM title AS t WHERE t.season_nr NOT IN (1,2,3,4,5,6) ;
+SELECT count(*) FROM title AS t WHERE t.season_nr IN (1,2,3,4,5,6) ;
+SELECT count(*) FROM title AS t WHERE t.season_nr != 1 ;
+SELECT count(*) FROM title AS t WHERE t.production_year IS NULL ;
+SELECT count(*) FROM title AS t WHERE t.production_year IS NOT NULL ;
+SELECT count(*) FROM title AS t WHERE t.production_year IN (2000,2002) ;
+SELECT count(*) FROM title AS t WHERE t.production_year NOT IN (2000,2002) ;
+SELECT count(*) FROM title AS t WHERE t.production_year != 2000 ;
