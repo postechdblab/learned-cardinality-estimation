@@ -17,6 +17,6 @@ authors:
   given-names: "Jaehyok"
 title: "learned-cardinality-estimation"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2022-03-29
+# doi: 10.5281/zenodo.1234
+# date-released: 2022-03-29
 url: "https://github.com/postechdblab/learned-cardinality-estimation"
