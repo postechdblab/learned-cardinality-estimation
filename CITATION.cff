@@ -1,22 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Kim"
-  given-names: "Kyoungmin"
-#   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Jeong"
-  given-names: "Jisung"
-#   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Seo"
-  given-names: "In"
-- family-names: "Han"
-  given-names: "Wook-Shin"
-- family-names: "Choi"
-  given-names: "Kangwoo"
-- family-names: "Chong"
-  given-names: "Jaehyok"
 title: "learned-cardinality-estimation"
-version: 1.0.0
 # doi: 10.5281/zenodo.1234
 # date-released: 2022-03-29
 url: "https://github.com/postechdblab/learned-cardinality-estimation"
