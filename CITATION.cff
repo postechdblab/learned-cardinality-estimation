@@ -1,6 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- given-names: "postechdblab"
-title: "learned-cardinality-estimation"
-url: "https://github.com/postechdblab/learned-cardinality-estimation"
