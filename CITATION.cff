@@ -7,3 +7,5 @@ message: 'If you use this software, please cite it as below.'
 type: software
 authors:
   - given-names: postechdblab
+url: >-
+  https://github.com/postechdblab/learned-cardinality-estimation
