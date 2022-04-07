@@ -1,4 +1,4 @@
-Technical Paper (link)
+Technical Paper ([link](https://drive.google.com/file/d/1DzZJZHSJkv44ELOknaER3Ke1WIMlOxhQ/view?usp=sharing))
 
 
 
