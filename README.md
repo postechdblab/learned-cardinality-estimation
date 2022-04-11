@@ -33,7 +33,7 @@ bash environments/DeepDB/setup.sh
 # Original dataset: http://homepages.cwi.nl/~boncz/job/imdb.tgz
 # We used Postgres exported version. The original dataset can make parsing errors in the Pandas parsing engine. 
 link: https://drive.google.com/file/d/1j8DZd0TwZ6fBFN9FqXOzfYsFz_pDGiMp/view?usp=sharing
-location: ./datasets/job
+location: ./datasets/imdb
 
 # TPC-DS
 # Origianl dataset: http://tpc.org/tpc_documents_current_versions/current_specifications5.asp
